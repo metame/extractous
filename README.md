@@ -55,7 +55,7 @@ With Extractous, the need for external services or APIs is eliminated, making da
 * High-performance unstructured data extraction optimized for speed and low memory usage.
 * Clear and simple API for extracting text and metadata content.
 * Automatically identifies document types and extracts content accordingly
-* Supports [many file formats](#supported-file-formats) (most formats supported by Apache Tika).
+* Supports [many file formats](#-supported-file-formats) (most formats supported by Apache Tika).
 * Extracts text from images and scanned documents with OCR through [tesseract-ocr](https://github.com/tesseract-ocr/tesseract).
 * Core engine written in Rust with bindings for [Python](https://pypi.org/project/extractous/) and upcoming support for JavaScript/TypeScript.
 * Detailed documentation and examples to help you get started quickly and efficiently.
